@@ -1,4 +1,5 @@
 class ProductModel {
+
   String name;
   double price;
   String description;
